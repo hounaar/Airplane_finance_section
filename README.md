@@ -1,7 +1,7 @@
 # Airplane_finance_section
 This project includes some SQL commands for the finance section of this airplane corporation.
 
-### Explnation
+### Overview
 The development plans examined in our framework are a wide range of plans and undertakings connected with the country's
  air terminals organization and are not restricted to a city or region. he is getting it done.
 
